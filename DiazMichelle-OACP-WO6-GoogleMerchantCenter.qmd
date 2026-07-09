@@ -1,0 +1,80 @@
+---
+title: "OACP-w06-Google Merchant Center"
+author: "Michelle Diaz"
+date: July 9, 2026
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    toc-expand: true
+    number-sections: true
+    code-link: true
+    code-tools: true
+    embed-resources: true
+    theme: cosmo
+editor: visual
+execute: 
+  freeze: auto
+---
+
+## Introduction
+
+::: callout-note
+## Practice Store Notice
+
+This is a practice store created for educational purposes only. It does not process real payments or conduct real transactions, and it is not affiliated with the official CPP Farm Store. No real business information was submitted during this attempt.
+:::
+
+For this assignment, I used the practice Shopify store I built for the Shopify term project, "Practice Store – Farm Store," a prototype inspired by CPP Farm Store. The store includes eight active products spanning private-label pantry goods (jams, pickled items, sauces) and curated gift baskets, each with titles, descriptions, images, prices, and availability. It also includes organized collections, basic navigation, an About page, contact information, and store policies. Using this store, I attempted to connect it to Google Merchant Center through Shopify's Google & YouTube sales channel to understand how Google evaluates a store's readiness for product listings and Shopping Ads.
+
+## Connection Attempt Evidence
+
+I began the connection by adding the Google & YouTube sales channel within the Shopify admin. Upon opening the channel, Shopify generated a setup roadmap outlining the steps required to get products visible on Google. The screenshots below document my attempt, including the sales channel setup screen and the point at which I was unable to proceed further.
+
+![Google & YouTube sales channel setup and roadmap in the Shopify admin](Set-up.png){#fig-setup}
+
+*The Google & YouTube app setup screen, showing the 7-step roadmap to get products on Google (see @fig-setup).*
+
+![Plan selection / payment requirement](Barrier.png){#fig-paywall}
+
+*The point at which the process required an active paid Shopify plan to continue (see @fig-paywall).*
+
+## Product Sync or Product Listing Status
+
+I was not able to reach a product sync or product listing screen during this attempt. The setup process required several steps to be completed first, including connecting a Google account, setting up Google Merchant Center, strengthening product data for Google eligibility, and adding a custom domain, before products could sync and free listings could be enabled. Because I stopped at the sales channel setup stage, my products did not sync. However, Shopify's setup roadmap indicated that my product data would need to be strengthened for Google eligibility before syncing, suggesting that fields such as product categories, barcodes/GTINs, and other required attributes would likely have been flagged as missing or incomplete.
+
+## Setup Barriers and Warnings
+
+I encountered several barriers during the connection attempt:
+
+- **Custom domain requirement.** Shopify flagged this as a key blocker. Google requires a verified custom domain to trust and display a store's listings, but my practice store is on a default `myshopify.com` URL. A real business would need to purchase and verify its own domain before proceeding.
+
+- **Paid plan requirement.** The setup process required an active paid Shopify plan to continue. Since this is a practice store and the assignment does not require spending money, I stopped at this point. A real business would need an active paid plan to publish and sell products.
+
+- **Product data strengthening.** Shopify's roadmap indicated that product data would need to be improved for Google eligibility. This typically includes adding product categories, barcodes/GTINs, and other required feed attributes that my practice products did not fully include.
+
+- **Google Merchant Center account setup.** Completing the connection would also require setting up and verifying a Merchant Center account, which depends on the domain and business information being verified first.
+
+## Fixes Needed
+
+Before this store could realistically use Google Merchant Center, several fixes would be required. First, the store would need a verified custom domain rather than a default myshopify.com URL, since Google requires this to trust and display listings. Second, it would need an active paid Shopify plan to enable publishing. Third, the product data would need to be strengthened by adding complete product categories, barcodes/GTINs, and any other required attributes, and by ensuring all titles, descriptions, images, prices, and availability meet Google's quality standards. Finally, the store would need a fully set up and verified Google Merchant Center account, along with accurate business and contact information, shipping, and return policies.
+
+## CPP Farm Store Reflection
+
+Even though I was not able to complete the setup, having access to Google Merchant Center or a similar tool would be greatly beneficial for CPP Farm Store. It would allow the store to upload and manage its product data in one place, acting as an inventory feed that gives Google each product's image, price, and description. This connects the store's items to Google Shopping, Search, Maps, and YouTube, so when someone searches for a product, CPP Farm Store's items could appear. These can show up as free listings or as paid ads, and the platform also provides personalized reports on product visibility, insights on consumer trends, and benchmarking against competitors.
+
+However, my experience attempting the connection showed that there are several things CPP Farm Store would need to prepare first. The most important is a verified custom domain. Google requires this to trust and display a store's listings, so CPP Farm Store could not rely on a default URL and would need its own professional domain. The store would also need an active, paid e-commerce plan to publish and sell products online, which is a real cost to budget for. Beyond the technical setup, the store would need to strengthen its product data. This means complete, accurate product titles, descriptions, categories, barcodes, high-quality images, and correct pricing and availability, since incomplete data gets flagged and blocked by Google.
+
+Store credibility also matters. CPP Farm Store would need clear business and contact information, along with visible shipping and return policies, so both Google and customers can trust the store. High-quality product photography is especially important, since images are often the first thing a shopper notices in a Google listing. Finally, the store should be advertising-ready, meaning it has thought through which products to feature (such as the custom gift baskets) and has accurate data behind them before launching Google Shopping Ads. Preparing these elements first would help CPP Farm Store make a strong, credible entrance onto Google's platforms and get the most value from the investment.
+
+## Appendix
+
+::: panel-tabset
+### GitHub Page
+
+<https://michelleeediazzz.github.io/your-repo/>
+
+### GitHub Repo
+
+<https://github.com/MichelleeeDiazzz/your-repo>
+:::
